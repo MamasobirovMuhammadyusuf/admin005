@@ -1,0 +1,187 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: orange;
+    
+}
+.text-danger{
+    font-size: 20px;
+}
+#btn2{
+    color: gray;
+    border: none;
+    font-size: 17pt;
+    margin-left: 220px;
+    
+}
+#KAr{
+    margin-left: 100px;
+    position: absolute;
+}
+#sear{
+    position: absolute;
+    margin-left: 220px;
+}
+.fa-bars{
+    color: black;
+    font-size: 17pt;
+}
+.search{
+   margin-left: 50px;
+}
+.fa-circle-user{
+    font-size: 20pt;
+    background-color: white;
+}
+.btn3{
+    border: 3px solid white ;
+    border-radius: 5px;
+    margin-left: 400px;
+    position: absolute;
+    margin-top: -37px;
+}
+.p{
+    margin-left: 450px;
+    position: absolute;
+    margin-top: -39px;
+    font-size: 10pt;
+}
+.fa-cart-shopping{
+    font-size: 20pt;
+    background-color: white;
+}
+.btn4{
+    border: 3px solid white ;
+    border-radius: 5px;
+    margin-left: 550px;
+    position: absolute;
+    margin-top: -37px;
+}
+.p1{
+    margin-left: 600px;
+    position: absolute;
+    margin-top: -39px;
+    font-size: 10pt;
+}
+
+.fa-headphones-simple{
+    font-size: 30pt;
+    margin-top: -5px;
+    color: white;
+    margin-left: 1140px;
+    position: absolute;
+}
+#h{
+   position: absolute;
+   margin-left: 1190px;
+   margin-top: -5px; 
+}
+.navbar1{
+    
+    color: white;
+    height: 30px;
+}
+.pi{
+    margin-left: 200px;
+    margin-top: -7px;
+    text-decoration: none;
+}
+* a{
+    text-decoration: none;
+}
+.pi:hover{
+    border-bottom: 2px solid white;
+}
+.pi1{
+    text-decoration: none;
+    margin-left: 230px;
+    margin-top: -40px;
+}
+.pi2{
+    margin-left: 260px;
+    margin-top: -40px;
+    text-decoration: none;
+
+}
+.pi3{
+    margin-left: 300px;
+    margin-top: -40px;
+    text-decoration: none;
+
+}
+.pi4{
+    margin-left: 340px;
+    margin-top: -40px;
+    text-decoration: none;
+
+}
+.pi5{
+    margin-left: 395px;
+    margin-top: -40px;
+    text-decoration: none;
+
+}
+.pi6{
+    margin-left: 460px;
+    margin-top: -40px;
+    text-decoration: none;
+
+}
+#select{
+    width: 200px;
+    height: 20px;
+    margin-left: 1090px;
+    margin-top: -40px;
+    position: absolute;
+    background-color: unset;
+    color: white;
+    background-color: dark;
+    border: none;
+} 
+#div1{
+    margin-left: 360px;
+    margin-top: -40px;
+    position: absolute;
+} 
+#divv{
+    margin-left: 35px;
+    
+}
+#butt{
+    margin-left: -25px;
+    margin-top: -3;
+}
+#carouselExampleFade{
+    height: 60px;
+    width: 800px;
+    margin-top: 30px;
+    position: absolute; 
+    border-radius: 50px;
+    margin-left: 80px;
+}
+.img{
+    width:  360px;
+    height: 190px;
+    margin-left: 890px;
+    margin-top: 30px;  
+    border-radius: 10px;  
+} 
+.img1{
+    width: 360px;
+    height: 190px;
+    margin-left: 890px;
+    margin-top: 10px; 
+    border-radius: 10px;
+}
+#cadt img{
+    width: 100px;
+    height: 80px    ;
+}
+#KAR{
+    width: 150px;
+    margin-top: 350px;
+    margin-left: 100px;
+    position: absolute;
+}
